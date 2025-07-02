@@ -1,4 +1,3 @@
-````
 # 🚗 Car Project – Backend System
 
 ## 📖 Overview
@@ -91,7 +90,6 @@ Custom exception classes and global error handling
    ```bash
    git clone <your-repository-url>
    cd car-project
-````
 
 2. **Configure Database**
 
