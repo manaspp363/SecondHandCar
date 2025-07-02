@@ -88,8 +88,7 @@ This is a modern backend application built using **Java** and **Spring Boot**. I
    ```bash
    git clone <your-repository-url>
    cd car-project
-```
-
+````
 2. **Configure Database**
 
    * Update `application.properties` with your MySQL credentials
