@@ -71,6 +71,12 @@ Interface for interacting with the database using Spring Data JPA
 ### Exception Layer
 Custom exception classes and global error handling
 
+### Controller Layer
+APIs endpoints to make HTTP request from clint to server
+
+### Config layer
+separates application settings from the core code and catch all request for Spring security
+
 ---
 
 ## 🚀 Getting Started
