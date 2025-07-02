@@ -181,6 +181,3 @@ Contributions are welcome!
 **Email:** [manaspeeyushpadney@gmail.com](mailto:manaspeeyushpadney@gmail.com)
 
 **GitHub Repo:** [https://github.com/manaspp363/SecondHandCar.git](mailto:https://github.com/manaspp363/SecondHandCar.git)
-
-```
-```
