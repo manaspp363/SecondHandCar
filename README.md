@@ -165,19 +165,16 @@ Contributions are welcome!
    ```
 5. Open a Pull Request
 
----
-
-## 📄 License
-
-Distributed under the **MIT License**. See `LICENSE` for more details.
 
 ---
 
 ## 📬 Contact
 
 **Name:** Manas Peeyush Pandey
+
 **Email:** [manaspeeyushpadney@gmail.com](mailto:manaspeeyushpadney@gmail.com)
-**GitHub Repo:** \[Your Project URL]
+
+**GitHub Repo:** [https://github.com/manaspp363/SecondHandCar.git](mailto:https://github.com/manaspp363/SecondHandCar.git)
 
 ```
 ```
